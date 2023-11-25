@@ -11,6 +11,12 @@ See also my wiki page for details:
 All examples are using Ubuntu 22.04 LTS (because it is used by OpenStack developers and is thus
 most likely to work).
 
+## Conservative
+
+Conservative setup, that just adds support for Older CPUs
+is under [conservative/](conservative/) folder.
+
+
 ## MacVTap
 
 MacVTap is most simple interface that connects VMs directly to Bridge interfaces. It is similar
