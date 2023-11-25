@@ -19,6 +19,9 @@ is under [conservative/](conservative/) folder.
 
 ## MacVTap
 
+> MacVTap is UNUSABLE on DevStack because of missing Agent support under `lib/neutron_plugins`!!!
+> This text is here kept for reference only...
+
 MacVTap is most simple interface that connects VMs directly to Bridge interfaces. It is similar
 to way how other solutions (Proxmox VE) works.
 
